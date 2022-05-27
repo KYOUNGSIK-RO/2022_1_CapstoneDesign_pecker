@@ -19,3 +19,6 @@
   - 노경식
   - 이재익
   - 김민주
+
+## diagram
+<img width="468" alt="capstone_diagram" src="https://user-images.githubusercontent.com/100778062/170650353-d94675d2-be39-4058-97fa-15032f42363f.PNG">
