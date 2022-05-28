@@ -24,8 +24,8 @@
 <img width="468" alt="capstone_diagram" src="https://user-images.githubusercontent.com/100778062/170650353-d94675d2-be39-4058-97fa-15032f42363f.PNG">
 
 ## picture
-- top plate
-![위](https://user-images.githubusercontent.com/100778062/170806014-6a44b006-df1f-4d41-bd9a-b02cc69cf747.jpg)
 
-- lower plate
-![하판](https://user-images.githubusercontent.com/100778062/170806003-e35c922e-75e6-453b-91df-1a61282f2ca0.jpg)
+<figure class="half">
+  ![위](https://user-images.githubusercontent.com/100778062/170806014-6a44b006-df1f-4d41-bd9a-b02cc69cf747.jpg)
+  ![하판](https://user-images.githubusercontent.com/100778062/170806003-e35c922e-75e6-453b-91df-1a61282f2ca0.jpg)
+figure>
